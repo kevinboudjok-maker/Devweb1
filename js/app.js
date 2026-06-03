@@ -49,4 +49,8 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
     return;
   }
 
+    import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm';
+const supabase = createClient(https://tisnkpjjuyznlxorozqx.supabase.co/auth/v1/callback, https://kevinboudjok-maker.github.io/Devweb1/);
+
+
 </script>
